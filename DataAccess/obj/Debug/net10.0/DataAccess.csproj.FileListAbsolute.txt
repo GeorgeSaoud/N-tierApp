@@ -1,0 +1,11 @@
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\bin\Debug\net10.0\DataAccess.deps.json
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\bin\Debug\net10.0\DataAccess.dll
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfo.cs
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.dll
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\obj\Debug\net10.0\refint\DataAccess.dll
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.pdb
+C:\Users\TECHNO\Desktop\n-tire\TodoSolution\DataAccess\obj\Debug\net10.0\ref\DataAccess.dll
